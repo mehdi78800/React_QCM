@@ -283,8 +283,8 @@ Répondez en choisissant une seule et bonne réponse ci-dessous
 *Réponses* :
 * [ ] Il affiche 0 puis 1 au bout d'une seconde dans le DOM.
 * [ ] Il affiche 1 au bout d'une seconde dans le DOM
-* [ ] Il affiche 0 puis 1, 2, ... avec un interval 1s dans le DOM.
-* [x] Il affiche 0 dans le DOM
+* [x] Il affiche 0 puis 1, 2, ... avec un interval 1s dans le DOM.
+* [ ] Il affiche 0 dans le DOM
 
 ## Question 10
 
